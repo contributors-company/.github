@@ -1,4 +1,4 @@
-Welcome to our GitHub organization!
+Welcome to our Contributors!
 
 We are dedicated to developing and maintaining open source projects and packages aimed at assisting developers worldwide. Our mission is to contribute to the community by creating high-quality, reliable, and innovative software solutions.
 
